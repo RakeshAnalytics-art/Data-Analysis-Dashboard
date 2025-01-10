@@ -15,5 +15,12 @@ The Vrinda store wants to create an annual sales report for 2022. so that the ow
 7.	Which channel is contributing to maximum sales? 
 8.	Highest selling category?
 9.	Percentage of Total Order delivered?
-Dashboard Interaction <a href="
+Dashboard Interaction <a href="https://github.com/RakeshAnalytics-art/Data-Analysis-Dashboard/blob/main/Screenshot%202025-01-10%20164445.png">View Dashboard</a>
+
+Process:
+•	Verify Data for any missing values and anomalies and sort out the same 
+•	Made sure data is consistent and clean with respect to data type, data format and value used.
+•	Created pivot tables as per questions asked.
+•	Merge all pivot tables into one dashboard and apply slicer to make dashboard dynamic.
+
 
