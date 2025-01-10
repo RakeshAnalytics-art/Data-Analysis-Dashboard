@@ -17,20 +17,22 @@ The Vrinda store wants to create an annual sales report for 2022. so that the ow
 9.	Percentage of Total Order delivered?
 Dashboard Interaction <a href="https://github.com/RakeshAnalytics-art/Data-Analysis-Dashboard/blob/main/Screenshot%202025-01-10%20164445.png">View Dashboard</a>
 
-Process:
+## Process:
 •	Verify Data for any missing values and anomalies and sort out the same 
 •	Made sure data is consistent and clean with respect to data type, data format and value used.
 •	Created pivot tables as per questions asked.
 •	Merge all pivot tables into one dashboard and apply slicer to make dashboard dynamic.
 
-Project Insight:
+## Project Insight:
  Women are more likely to buy compared to men (~65%).
  Maharashtra, Karnataka, and Uttar Pradesh are the top 3 states(~35%).
  Adult age group (30-49 yrs) is max contributing (~50%).
  Amazon, Flipkart, and Myntra channels are max contributing (~80%).
+ More than 90% products delivered.
  
  **Final Conclusion to improve Vrinda store sales**:
  Target women customers of age group (30-49 yrs) living in Maharashtra, Karnataka, and
- Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipkart, and Myntra
+ Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipkart, and Myntra.
+ This demographic represents a key consumer segment as they often make signifiant houshold and lifestyle purchases.
 
 
